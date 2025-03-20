@@ -7,3 +7,4 @@ This repo contains code used for AERONET-OC analysis over the **Tolchester Tower
   <img src="github_header.png" width="400">
 </div>
 
+For any questions, please email ***samantha.l.smith@nasa.gov***
