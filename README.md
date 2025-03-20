@@ -3,6 +3,6 @@ This repo contains code used for AERONET-OC analysis over the **Tolchester Tower
 
 
 <div style="text-align: center;">
-  <img src="github_overview.png" width="400">
+  <img src="github_header.png" width="400">
 </div>
 
